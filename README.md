@@ -9,7 +9,8 @@ Anotações e registros de atividades
 ## Anotações
 - Gist mylogs: [Gist mylogs](https://gist.github.com/adrianoavelino/313b0be8377e521241819b68a2f7cac4)
 - Exemplos de prompts para agente de IA: [Gist prompts](https://gist.github.com/adrianoavelino/3ef49b866ae7c247ce1871ebf137cef1)    
-- Leitura indicada por Maurícion Aniche: [Blog do gitlab](https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/)    
+- Leitura indicada por Maurícion Aniche: [Blog do gitlab](https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/)
+- Link promocional para criar conta no Stackspot AI. [Cadastre-se]( https://ai.stackspot.com/?campaignCode=01JXZTQ1S79349E8ZPS03VCW4P01JXZTQ1S79349E8ZPS03VCW4P01JXZTQ1S79349E8ZPS03VCW4P)
 
 
 ## Template de log
