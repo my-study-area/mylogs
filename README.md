@@ -24,6 +24,11 @@ Anotações e registros de atividades
 
 ---  
 ## Logs
+### 28/06/2025
+`#java #design #pattern #leitura`
+- [5 Design Patterns Essenciais no Spring Boot — E Como Usá-los com Eficiência]([link](https://deviniciative.wordpress.com/2025/06/20/5-design-patterns-essenciais-no-spring-boot-e-como-usa-los-com-eficiencia/))
+
+
 ### 08/06/2025
 `#pdb #python #debug`
 
