@@ -28,6 +28,33 @@ Anotações e registros de atividades
 `#java #design #pattern #leitura`
 - [5 Design Patterns Essenciais no Spring Boot — E Como Usá-los com Eficiência](https://deviniciative.wordpress.com/2025/06/20/5-design-patterns-essenciais-no-spring-boot-e-como-usa-los-com-eficiencia/)
 
+---
+`#game #jogo #mame #arcade`
+
+Configurar o controle:
+- sudo apt install joystick -y
+- sudo apt install jstest-gtk -y
+- abra o programa jstest-gtk, selecione o controle para testar se o controle está funcionando corretamente.
+
+Vídeo com instruções: https://www.youtube.com/watch?v=3Zej4kdCnpo&ab_channel=DogukanMeral
+
+
+Instalar mame (arcade):
+- instalar pelos gerenciador de programas do Linux
+- copiar a pasta .mame do backup
+
+Configurar cheat:
+- baixar o [arquivo de cheat](https://mega.nz/file/SxsQUJoT#jBdz6GLm_3J7xC5IbTArVxIwcOmcf11qKQzFGSMms2c)
+- extrair o cheat.7z
+- coloque o arquivo na pasta do cheat definida no seu arquivo `~/.mame/mame.ini`, na linha: 
+```
+cheatpath                 $HOME/mame/cheat;/usr/local/share/games/mame/cheat;/usr/share/games/mame/cheat;/usr/games
+```
+
+Ativar o cheat:
+- ao iniciar o mame, acesse a opção Configure Options > Miscellaneous Options > Enable Cheats e ative a opção.
+- ao iniciar o jogo, pressione a tecla `Tab` para abrir o menu de opções do mame, vá até a opção Cheat. Na tela que abrir, basta selecionar as opções desejadas como infinity time e infinity Energy.
+
 
 ### 08/06/2025
 `#pdb #python #debug`
