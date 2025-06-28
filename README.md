@@ -44,7 +44,7 @@ Instalar mame (arcade):
 - copiar a pasta .mame do backup
 
 Configurar cheat:
-- baixar o [arquivo de cheat](https://mega.nz/file/SxsQUJoT#jBdz6GLm_3J7xC5IbTArVxIwcOmcf11qKQzFGSMms2c)
+- baixar o [arquivo de cheat](https://mega.nz/file/SxsQUJoT#jBdz6GLm_3J7xC5IbTArVxIwcOmcf11qKQzFGSMms2c) ou [aqui](./arquivos/mame/cheat.7z)
 - extrair o cheat.7z
 - coloque o arquivo na pasta do cheat definida no seu arquivo `~/.mame/mame.ini`, na linha: 
 ```
