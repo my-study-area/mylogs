@@ -25,7 +25,7 @@ Anotações e registros de atividades
 ---  
 ## Logs
 
-### 06/06/2025
+### 29/06/2025
 `#localstack #aws`
 - Aplicação frontend para Localstack: https://github.com/dantasrafael/localstack-web
 
