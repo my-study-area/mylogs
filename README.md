@@ -24,6 +24,12 @@ Anotações e registros de atividades
 
 ---  
 ## Logs
+
+### 06/06/2025
+`#localstack #aws`
+- Aplicação frontend para Localstack: https://github.com/dantasrafael/localstack-web
+
+
 ### 28/06/2025
 `#java #design #pattern #leitura`
 - [5 Design Patterns Essenciais no Spring Boot — E Como Usá-los com Eficiência](https://deviniciative.wordpress.com/2025/06/20/5-design-patterns-essenciais-no-spring-boot-e-como-usa-los-com-eficiencia/)
