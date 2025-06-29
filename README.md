@@ -55,6 +55,11 @@ Ativar o cheat:
 - ao iniciar o mame, acesse a opção Configure Options > Miscellaneous Options > Enable Cheats e ative a opção.
 - ao iniciar o jogo, pressione a tecla `Tab` para abrir o menu de opções do mame, vá até a opção Cheat. Na tela que abrir, basta selecionar as opções desejadas como infinity time e infinity Energy.
 
+---
+`#panel-attack #game #jogo`
+Instalação de panel attack com love: https://panelattack.com/
+> Obs: não esquecer de executar `chmod +x panel-attack.AppImage` para dar permissão de execução.
+
 
 ### 08/06/2025
 `#pdb #python #debug`
