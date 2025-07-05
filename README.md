@@ -12,6 +12,7 @@ Anotações e registros de atividades
 - Link promocional para criar conta no Stackspot AI. [Cadastre-se](https://ai.stackspot.com/?campaignCode=01JXZTQ1S79349E8ZPS03VCW4P)
 
 ## Leituras
+- `#test #testes #unitario #java #spring`: Maratona de Testes Automatizados — Step 1: Testes Unitários: [dev.to](https://dev.to/diegobrandao/maratona-de-testes-automatizados-step-1-testes-unitarios-1kee)
 - `#performance #gitlab #backup` Leitura indicada por Maurício Aniche: [Blog do gitlab](https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/)
 - OK 05/07/2025 - `#java #exceptions` [Exceptions for Control Flow are Slow](https://www.linkedin.com/pulse/exceptions-control-flow-slow-alexandre-aquiles-3wxef/?trackingId=qrHRGQmYQjSbfO2gqVXQ%2Fg%3D%3D). Relacionado ao assunto: https://wiki.c2.com/?DontUseExceptionsForFlowControl
 
