@@ -13,17 +13,22 @@ Anotações e registros de atividades
 
 ## Leituras
 - `#performance #gitlab #backup` Leitura indicada por Maurício Aniche: [Blog do gitlab](https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/)
-- `#java #exceptions` [Exceptions for Control Flow are Slow](https://www.linkedin.com/pulse/exceptions-control-flow-slow-alexandre-aquiles-3wxef/?trackingId=qrHRGQmYQjSbfO2gqVXQ%2Fg%3D%3D)
+- OK 05/07/2025 - `#java #exceptions` [Exceptions for Control Flow are Slow](https://www.linkedin.com/pulse/exceptions-control-flow-slow-alexandre-aquiles-3wxef/?trackingId=qrHRGQmYQjSbfO2gqVXQ%2Fg%3D%3D). Relacionado ao assunto: https://wiki.c2.com/?DontUseExceptionsForFlowControl
 
 ## Template de log
 ```
-### 06/06/2025
+### 06/07/2025
 `#`
 - [text](link)
 ```
 
 ---  
 ## Logs
+
+### 05/07/2025
+`#benchmark #java`
+- JMH (the Java Microbenchmark Harness): https://www.baeldung.com/java-microbenchmark-harness
+
 
 ### 29/06/2025
 `#localstack #aws`
