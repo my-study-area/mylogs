@@ -26,6 +26,11 @@ Anotações e registros de atividades
 ---  
 ## Logs
 
+### 06/07/2025
+`#java #kubernet`
+- [Hands On | Levando uma aplicação Java até o Kubernetes](https://deviniciative.wordpress.com/2020/06/02/hands-on-levando-uma-aplicacao-java-ate-o-kubernetes/)
+
+
 ### 05/07/2025
 `#benchmark #java`
 - JMH (the Java Microbenchmark Harness): https://www.baeldung.com/java-microbenchmark-harness
