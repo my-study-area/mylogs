@@ -25,6 +25,10 @@ Anotações e registros de atividades
 
 ---  
 ## Logs
+### 22/07/2025
+`#java #spring`
+- Informações sobre Spring compartilhadas no server do discord do deveficiente: [https://www.marcobehler.com/](https://www.marcobehler.com/)
+
 
 ### 06/07/2025
 `#java #kubernet`
