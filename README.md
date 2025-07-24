@@ -1224,7 +1224,7 @@ Atalhos VS COde:
 ### 19/09/2024
 `#aws`
 
-Well-Architected Framework:
+#### Well-Architected Framework:
 Another way to remember this could be to think of the acronym "CROPS":
 - C - Cost Optimization 
 - R - Reliability 
@@ -1232,23 +1232,23 @@ Another way to remember this could be to think of the acronym "CROPS":
 - P - Performance Efficiency 
 - S - Security
 
-AWS Cloud Adoption Framework (AWS CAF):
+#### AWS Cloud Adoption Framework (AWS CAF), perspectives:
+
+BUS ina PE GOu PLA S ticO
+
+- BUS: Business
+- PE: People
+- GO: Govenance
+- PLA: Platiform
+- S: Security
+- O: Operations
 
 
-BU S ina PE GOu PLA S ticO
 
-BUS: Business
-PE: People
-GO: Govenance
-PLA: Platiform
-S: Security
-O: Operations
-
-
-
-As categorias do AWS Trusted Advisor:
+#### As categorias do AWS Trusted Advisor:
 
 Como Posso Seguir em Frente Sem Limite?
+
 Caralho! Porra! Sai fininho, Safado.
 
 - C: Custo (Otimização de Custos)
