@@ -25,7 +25,7 @@ Anotações e registros de atividades
 
 ---  
 ## Logs
-### 06/07/2025
+### 27/07/2025
 `#rinha #docker`
 - Rinha de Backend: como automatizar a publicação de imagens Docker com GitHub Actions: https://www.youtube.com/watch?v=u6dWrkJLYvY&ab_channel=EmilioHeinzmann
 
