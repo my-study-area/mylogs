@@ -26,6 +26,10 @@ Anotações e registros de atividades
 ---  
 ## Logs
 ### 27/07/2025
+`#livro #engenharia #pos #deveficiente`
+- indicado no discord do deveficiente sobre curso tecnologia e pós: https://engsoftmoderna.info/
+
+### 27/07/2025
 `#rinha #docker`
 - Rinha de Backend: como automatizar a publicação de imagens Docker com GitHub Actions: https://www.youtube.com/watch?v=u6dWrkJLYvY&ab_channel=EmilioHeinzmann
 
