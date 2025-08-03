@@ -1254,7 +1254,27 @@ BUS ina PE GOu PLA S ticO
 
 
 
-#### As categorias do AWS Trusted Advisor:
+#### As "AWS best practices" AWS Trusted Advisor:
+
+Cada Serviço Tem Limites Proibitivos.
+
+- C - Custo (Cost Optimization)
+- S - Segurança (Security)
+- T - Tolerância a Falhas (Fault Tolerance)
+- L - Limites de Serviço (Service Limits)
+- P - Performance (Performance Improvement)
+
+
+Clean Servers Function Like Pros.
+
+Let's break it down:
+- C - Cost Optimization
+- S - Security
+- F - Fault Tolerance
+- L - Limit (Service Limits)
+- P - Performance (Performance Improvement)
+
+
 
 Como Posso Seguir em Frente Sem Limite?
 
