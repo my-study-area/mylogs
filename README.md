@@ -25,6 +25,10 @@ Anotações e registros de atividades
 
 ---  
 ## Logs
+### 24/08/2025
+`#certificação #aws`
+- Certificado/badge da AWS para conclusão estilo game para aprender cloud, IA genreativa e outros: [AWS Cloud Quest: Generative AI Practitioner](https://aws.amazon.com/pt/training/digital/aws-cloud-quest/)
+
 ### 27/07/2025
 `#livro #engenharia #pos #deveficiente`
 - indicado no discord do deveficiente sobre curso tecnologia e pós: https://engsoftmoderna.info/
