@@ -15,14 +15,19 @@ Anotações e registros de atividades
 - OK 15/07/2025 - `#test #testes #unitario #java #spring`: Maratona de Testes Automatizados — Step 1: Testes Unitários: [dev.to](https://dev.to/diegobrandao/maratona-de-testes-automatizados-step-1-testes-unitarios-1kee)
 - `#performance #gitlab #backup` Leitura indicada por Maurício Aniche: [Blog do gitlab](https://about.gitlab.com/blog/2025/06/05/how-we-decreased-gitlab-repo-backup-times-from-48-hours-to-41-minutes/)
 - OK 05/07/2025 - `#java #exceptions` [Exceptions for Control Flow are Slow](https://www.linkedin.com/pulse/exceptions-control-flow-slow-alexandre-aquiles-3wxef/?trackingId=qrHRGQmYQjSbfO2gqVXQ%2Fg%3D%3D). Relacionado ao assunto: https://wiki.c2.com/?DontUseExceptionsForFlowControl
-- playlist Rafael pontes: https://www.youtube.com/playlist?list=PLHMMERsvy9EyWQPru4SrJAYHEGKfkjRgP
+- playlist Rafael pontes: [Youtube](https://www.youtube.com/playlist?list=PLHMMERsvy9EyWQPru4SrJAYHEGKfkjRgP)
 
 ## Template de log
 ```
-### 06/07/2025
+### 01/09/2025
 `#`
 - [text](link)
 ```
+
+### 31/08/2025
+`#java #spring #course #curso`
+- Curso Spring Academy gratuito desde 2024: [fonte](https://spring.io/blog/2024/04/10/spring-academy-pro-content-now-free-to-access). Compartilhado no [chat](https://discord.com/channels/700620972604129302/700620973405372478/1411492859013759157) do deveficiente
+
 
 ---  
 ## Logs
