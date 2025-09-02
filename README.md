@@ -27,6 +27,7 @@ Anotações e registros de atividades
 ### 31/08/2025
 `#java #spring #course #curso`
 - Curso Spring Academy gratuito desde 2024: [fonte](https://spring.io/blog/2024/04/10/spring-academy-pro-content-now-free-to-access). Compartilhado no [chat](https://discord.com/channels/700620972604129302/700620973405372478/1411492859013759157) do deveficiente
+- VisualVM é uma ferramenta que monitora e analisa aplicações Java em execução: [download](https://visualvm.github.io/download.html)
 
 
 ---  
