@@ -24,9 +24,13 @@ Anotações e registros de atividades
 - [text](link)
 ```
 
-### 01/09/2025
+### 07/09/2025
 `#java #jmeter #thread #virtualthread`
 - 🧵 Loom + JMeter — Testes de performance mais leves e escaláveis. Artigo que mostra como o Project Loom (Java 21) melhora a execução de testes no JMeter usando virtual threads. Comparações práticas mostram redução no uso de memória, CPU e número de threads, permitindo simular milhões de usuários com menos recursos. Ideal para entender como otimizar testes de carga em aplicações modernas.[medium](https://medium.com/globant/loom-project-the-revolution-of-jmeter-d321486517a8)
+
+`#node #rinhabackend`
+- Post Como Venci a Rinha de Backend 2025 com TypeScript, Node.js e Redis [blog](https://ricassiocosta.me/2025/08/como-venci-a-rinha-de-backend-2025/)
+- Vídeo explicando a solução do vencedor, melhor projeto com python, 🐍 O MELHOR PROJETO PYTHON NA RINHA DE BACKEND!!! [Youtube](https://www.youtube.com/watch?v=wBqCR8W-P0g&ab_channel=ProgramadorLhama)
 
 ### 31/08/2025
 `#java #spring #course #curso`
