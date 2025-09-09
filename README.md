@@ -29,6 +29,15 @@ Anotações e registros de atividades
 `#java #postgres`
 - Vídeo Messaging With PostgreSQL - Rafael Ponte no JavaZone: [vimeo](https://vimeo.com/1115459661)
 
+`#logs #log`    
+O que logar numa aplicação? retirado do discord do deveficiente
+
+- Comunicação com sistemas externos
+- Alteração de estado no sistema
+- Alguma regra de validação que quando não satisfeita interrompe um fluxo
+- Exceptions que não são progadas.
+
+
 ### 07/09/2025
 `#java #jmeter #thread #virtualthread`
 - 🧵 Loom + JMeter — Testes de performance mais leves e escaláveis. Artigo que mostra como o Project Loom (Java 21) melhora a execução de testes no JMeter usando virtual threads. Comparações práticas mostram redução no uso de memória, CPU e número de threads, permitindo simular milhões de usuários com menos recursos. Ideal para entender como otimizar testes de carga em aplicações modernas.[medium](https://medium.com/globant/loom-project-the-revolution-of-jmeter-d321486517a8)
