@@ -24,6 +24,11 @@ Anotações e registros de atividades
 - [text](link)
 ```
 
+
+### 08/09/2025
+`#java #postgres`
+- Vídeo Messaging With PostgreSQL - Rafael Ponte no JavaZone: [vimeo](https://vimeo.com/1115459661)
+
 ### 07/09/2025
 `#java #jmeter #thread #virtualthread`
 - 🧵 Loom + JMeter — Testes de performance mais leves e escaláveis. Artigo que mostra como o Project Loom (Java 21) melhora a execução de testes no JMeter usando virtual threads. Comparações práticas mostram redução no uso de memória, CPU e número de threads, permitindo simular milhões de usuários com menos recursos. Ideal para entender como otimizar testes de carga em aplicações modernas.[medium](https://medium.com/globant/loom-project-the-revolution-of-jmeter-d321486517a8)
