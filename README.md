@@ -24,6 +24,11 @@ Anotações e registros de atividades
 - [text](link)
 ```
 
+### 10/09/2025
+`#spring #springbatch #batch #virtualvm #profiling`
+- Otimização de desempenho para jobs Spring Batch - Giuliana Silva Bezerra: [udemy](https://www.udemy.com/course/otimizacao-de-desempenho-para-jobs-spring-batch/?couponCode=MT250908G3)
+
+
 
 ### 08/09/2025
 `#java #postgres`
