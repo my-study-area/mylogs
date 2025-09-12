@@ -23,6 +23,17 @@ Anotações e registros de atividades
 `#`
 - [text](link)
 ```
+---  
+## Logs
+
+
+
+### 11/09/2025
+`#spring #datasource #transaction`
+- Exemplo de multiplos datasources no mesmo application.properites usando Spring Batch. Controle Transacional no Spring Batch [youtube](https://www.youtube.com/watch?v=iZXYG7fM8jI)
+    - arquivo [application.properties](https://github.com/giuliana-bezerra/sb-transactions/blob/main/src/main/resources/application.properties)
+    - arquivo de [configuração](https://github.com/giuliana-bezerra/sb-transactions/blob/main/src/main/java/com/example/transactionsmultiplesdbs/DatasourceConfig.java)
+
 
 ### 10/09/2025
 `#spring #springbatch #batch #virtualvm #profiling`
@@ -57,8 +68,6 @@ O que logar numa aplicação? retirado do discord do deveficiente
 - VisualVM é uma ferramenta que monitora e analisa aplicações Java em execução: [download](https://visualvm.github.io/download.html)
 
 
----  
-## Logs
 ### 24/08/2025
 `#certificação #aws`
 - Certificado/badge da AWS para conclusão estilo game para aprender cloud, IA genreativa e outros: [AWS Cloud Quest: Generative AI Practitioner](https://aws.amazon.com/pt/training/digital/aws-cloud-quest/)
