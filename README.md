@@ -26,6 +26,30 @@ Anotações e registros de atividades
 ---  
 ## Logs
 
+### 27/09/2025
+`#spring #cli #graalvm #aot`
+- Spring cli: [doc](https://docs.spring.io/spring-boot/cli/using-the-cli.html)
+```bash
+spring init --dependencies=web -a artifact -g br.com.estudos -n nomeProjeto --build maven nomeRepositorio
+```
+
+- graalvm no asdf:
+```bash
+# lista as instalações de java com graalvm
+asdf list-all java | grep graalvm
+
+# instala graalvm
+asdf install java graalvm-community-25.0.0
+
+# para código com reflection execute na vm options:
+java -agentlib:native-image-agent=config-output-dir=src/main/resources/META-INF/native-image -jar seu_projeto.jar
+
+# logo após execute os cenário de sucesso e falha para gerar os arquivo em src/main/resources/
+
+# compila em nativo
+mvn -Pnative native:compile
+```
+Acesse o [passo a passo](https://github.com/buildrun-tech/buildrun-java-spring-boot-graalvm-exemplo).
 
 
 ### 11/09/2025
