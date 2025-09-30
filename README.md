@@ -26,6 +26,18 @@ Anotações e registros de atividades
 ---  
 ## Logs
 
+### 01/09/2025
+`#graalvm #java #compilacaonativa #native`
+- corrigindo erro `org.hibernate.bytecode.spi.BytecodeProvider Unable to get public no-arg constructor` ao adicionar spring-data-jpa com compilação nativa
+
+Depois de muitas pesquisa descobri que temos que remover todas as referências para a classe BytecodeProvider e adicionar o seguinte arquivo: src/main/resources/META-INF/native-image/org.springframework/spring-orm/native-image.properties com o seguinte conteúdo:
+
+Args = -H:ServiceLoaderFeatureExcludeServices=org.hibernate.bytecode.spi.BytecodeProvider
+
+fonte: https://github.com/oracle/graal/issues/12207
+
+
+
 ### 27/09/2025
 `#spring #cli #graalvm #aot`
 - Spring cli: [doc](https://docs.spring.io/spring-boot/cli/using-the-cli.html)
