@@ -19,12 +19,18 @@ Anotações e registros de atividades
 
 ## Template de log
 ```
-### 01/09/2025
+### 01/12/2025
 `#`
 - [text](link)
 ```
 ---  
 ## Logs
+
+### 14/12/2025
+`#estrututuradados #codeinterview`
+- Estreia ABSOLUTE_PATH: Aprenda a passar nas entrevistas técnicas: com explicação sobre listas, lista duplamente ligada, conjuntos (set) e dicionário (map): [link no Youtube](https://www.youtube.com/watch?v=R6xXubdcaxI&t=4588s) e exemplo de [código fonte](https://github.com/codigofontetv/entrevistas-tecnicas)
+```
+
 
 ### 01/09/2025
 `#graalvm #java #compilacaonativa #native`
