@@ -19,12 +19,17 @@ Anotações e registros de atividades
 
 ## Template de log
 ```
-### 01/12/2025
+### 01/01/2026
 `#`
 - [text](link)
 ```
 ---  
 ## Logs
+
+### 24/01/2026
+`#english #IA #tool`
+- a site to speak with Miles, https://app.sesame.com/
+
 
 ### 14/12/2025
 `#estrututuradados #codeinterview`
