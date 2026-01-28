@@ -25,6 +25,11 @@ Anotações e registros de atividades
 ```
 ---  
 ## Logs
+### 28/01/2026
+`#system #design #saga`
+- design de sistema blog: https://fidelissauro.dev/category/system-design/
+
+
 
 ### 24/01/2026
 `#english #IA #tool`
