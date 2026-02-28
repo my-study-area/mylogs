@@ -24,11 +24,30 @@ Anotações e registros de atividades
 - [text](link)
 ```
 ---  
+
+
+
+
 ## Logs
+
+### 28/02/2026
+`#anki`
+- Consultar os cards do anki que estão com maior dificuldade de aprendizado:
+    - acesse o menu Browser (B)
+    - na barra de pesquisa digite:
+```
+deck:AWS::Associate prop:lapses>1
+```
+Obs: lista os cards que foram avaliados como again (1) mais de uma vez
+
+
+
+
+
+
 ### 28/01/2026
 `#system #design #saga`
 - design de sistema blog: https://fidelissauro.dev/category/system-design/
-
 
 
 ### 24/01/2026
