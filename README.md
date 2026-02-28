@@ -31,7 +31,11 @@ Anotações e registros de atividades
 ## Logs
 
 ### 28/02/2026
-`#anki`
+`#anki #plugin #add-on #addon`
+- Lista de add-ons: https://ankiweb.net/shared/addons
+    - Card Stats in Editor
+    - Review Heatmap
+    - True Retention
 - Consultar os cards do anki que estão com maior dificuldade de aprendizado:
     - acesse o menu Browser (B)
     - na barra de pesquisa digite:
