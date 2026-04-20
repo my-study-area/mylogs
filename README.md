@@ -30,6 +30,39 @@ Anotações e registros de atividades
 
 ## Logs
 
+### 19/04/2026
+`#investimento #financas`
+- Regra dos 300 [link](https://youtu.be/TyRO4zc4Fco?si=3V15U6wvyIYkx3ZJ&t=349)
+- Regra dos 72 [link](https://youtu.be/2AuPlpRjNsQ?si=ZbkEK_vVJ-MiVlW-&t=126)
+
+**📈 Resumo: Regras da Independência Financeira**
+
+#### 1. Regra dos 300 (O Número da Liberdade)
+**Objetivo:** Estimar o patrimônio total necessário para viver de renda.
+
+* **A Lógica:** Baseia-se na "Regra dos 4%", onde você retira 4% ao ano do seu patrimônio sem reduzir o capital principal (corrigido pela inflação).
+* **Fórmula:** $$\text{Custo de Vida Mensal} \times 300 = \text{Patrimônio Necessário}$$
+
+##### 💰 Exemplo Prático
+Se você quer uma renda de **R$ 4.000,00** por mês:
+* $4.000 \times 300 =$ **R$ 1.200.000,00**
+
+
+#### 2. Regra dos 72 (O Poder dos Juros)
+**Objetivo:** Calcular quanto tempo leva para o seu dinheiro **dobrar** de valor.
+
+* **A Lógica:** Uma aproximação matemática rápida para o efeito dos juros compostos.
+* **Fórmula:**
+$$\frac{72}{\text{Taxa de Juros Anual}} = \text{Anos para Dobrar}$$
+
+##### ⏳ Exemplo Prático
+Se o seu investimento rende **12% ao ano**:
+* $72 \div 12 =$ **6 anos** (Tempo necessário para transformar R$ 10 mil em R$ 20 mil).
+
+
+
+
+
 ### 28/02/2026
 `#anki #plugin #add-on #addon`
 - Lista de add-ons: https://ankiweb.net/shared/addons
