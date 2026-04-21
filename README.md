@@ -30,6 +30,12 @@ Anotações e registros de atividades
 
 ## Logs
 
+
+### 20/04/2026
+`#tool #java #sonar #qube #sonarqube`
+- PMD (Programming Mistake Detector): ferramenta de análise estática que verifica o código-fonte para encontrar automaticamente erros de programação, más práticas e vulnerabilidades. PMD é um analisador de código estático multilíngue extensível. Ele encontra falhas comuns de programação, como variáveis não utilizadas, blocos vazios, criação desnecessária de objetos, e assim por diante. [link](https://pmd.github.io/)
+
+
 ### 19/04/2026
 `#investimento #financas`
 - Regra dos 300 [link](https://youtu.be/TyRO4zc4Fco?si=3V15U6wvyIYkx3ZJ&t=349)
