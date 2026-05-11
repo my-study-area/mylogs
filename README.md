@@ -31,6 +31,11 @@ Anotações e registros de atividades
 ## Logs
 
 
+### 10/05/2026
+`#ia #code #microsoft #github`
+- Treinamento da microsoft learn sobre Github Copilot: [link](https://learn.microsoft.com/pt-br/training/paths/copilot/)
+
+
 ### 20/04/2026
 `#tool #java #sonar #qube #sonarqube`
 - PMD (Programming Mistake Detector): ferramenta de análise estática que verifica o código-fonte para encontrar automaticamente erros de programação, más práticas e vulnerabilidades. PMD é um analisador de código estático multilíngue extensível. Ele encontra falhas comuns de programação, como variáveis não utilizadas, blocos vazios, criação desnecessária de objetos, e assim por diante. [link](https://pmd.github.io/)
