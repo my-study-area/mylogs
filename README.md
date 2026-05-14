@@ -30,6 +30,10 @@ Anotações e registros de atividades
 
 ## Logs
 
+### 14/05/2026
+`#python #html #web`
+- O Streamlit é uma biblioteca de código aberto em Python que permite criar e compartilhar aplicativos da web interativos e personalizados para ciência de dados e aprendizado de máquina de forma extremamente rápida, sem a necessidade de conhecimento em desenvolvimento front-end: [link](https://streamlit.io/)
+
 
 ### 10/05/2026
 `#ia #code #microsoft #github`
