@@ -30,6 +30,11 @@ Anotações e registros de atividades
 
 ## Logs
 
+### 24/05/2026
+`#python #typing #statictyping`
+- O Mypy é um verificador estático de tipos para Python que analisa seu código antes da execução para encontrar bugs e inconsistências com base nas anotações de tipo: [link](https://github.com/python/mypy)
+
+
 ### 14/05/2026
 `#python #html #web`
 - O Streamlit é uma biblioteca de código aberto em Python que permite criar e compartilhar aplicativos da web interativos e personalizados para ciência de dados e aprendizado de máquina de forma extremamente rápida, sem a necessidade de conhecimento em desenvolvimento front-end: [link](https://streamlit.io/)
