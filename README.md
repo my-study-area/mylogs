@@ -30,6 +30,11 @@ Anotações e registros de atividades
 
 ## Logs
 
+### 28/05/2026
+`#python #tools #vscode #code`
+- Pylance is Microsoft's fast, feature-rich language server for Python in Visual Studio Code, designed to provide high-performance IntelliSense and type checking. [link](https://github.com/microsoft/pylance-release)
+
+
 ### 24/05/2026
 `#python #typing #statictyping`
 - O Mypy é um verificador estático de tipos para Python que analisa seu código antes da execução para encontrar bugs e inconsistências com base nas anotações de tipo: [link](https://github.com/python/mypy)
