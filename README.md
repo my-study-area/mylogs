@@ -92,8 +92,8 @@ Se o seu investimento rende **12% ao ano**:
 `#anki #plugin #add-on #addon`
 - Lista de add-ons: https://ankiweb.net/shared/addons
     - Card Stats in Editor
-    - Review Heatmap
-    - True Retention
+    - Review Heatmap (estou usando) [link](https://ankiweb.net/shared/info/1771074083)
+    - True Retention (estou usando) [link](https://ankiweb.net/shared/info/613684242)
 - Consultar os cards do anki que estão com maior dificuldade de aprendizado:
     - acesse o menu Browser (B)
     - na barra de pesquisa digite:
