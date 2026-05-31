@@ -30,6 +30,13 @@ Anotações e registros de atividades
 
 ## Logs
 
+
+### 28/05/2026
+`#cli #ai #copilot #github`
+- documentação do github cli: [link](https://docs.github.com/en/copilot/how-tos/copilot-cli/cli-getting-started)
+
+
+ 
 ### 28/05/2026
 `#python #tools #vscode #code`
 - Pylance is Microsoft's fast, feature-rich language server for Python in Visual Studio Code, designed to provide high-performance IntelliSense and type checking. [link](https://github.com/microsoft/pylance-release)
