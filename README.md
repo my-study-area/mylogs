@@ -33,7 +33,8 @@ Anotações e registros de atividades
 ### 04/05/2026
 `#ai #harness #podcast`
 - Explicação sobre harness de Fabrício Carraro do podcast Hipsters Fora de Controle: [link](https://fabriciocarraro.com.br/posts/harness-a-palavra-de-2026-e-como-o-codex-funciona-por-dentro/)
-
+`#cupom`
+- Cupom de cursos da udemy indicado por José Romualdo Zé: [link](https://courson.xyz/)
 
 ### 28/05/2026
 `#cli #ai #copilot #github`
