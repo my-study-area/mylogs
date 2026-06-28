@@ -30,6 +30,11 @@ Anotações e registros de atividades
 
 ## Logs
 
+### 28/06/2026
+`#read #leitura #dev`
+- Site para leitura de livros técnicos. É utilizado o discord para reuniões e as gravações estão disponíveis no Yputube. [Leitura dev](https://leitura.dev/)
+
+
 ### 04/05/2026
 `#ai #harness #podcast`
 - Explicação sobre harness de Fabrício Carraro do podcast Hipsters Fora de Controle: [link](https://fabriciocarraro.com.br/posts/harness-a-palavra-de-2026-e-como-o-codex-funciona-por-dentro/)
