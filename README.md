@@ -30,6 +30,12 @@ Anotações e registros de atividades
 
 ## Logs
 
+### 04/07/2026
+`#ia #harness`
+- Explicação sobre harness engineering: [link](https://www.langchain.com/blog/the-anatomy-of-an-agent-harness)
+
+
+
 ### 28/06/2026
 `#read #leitura #dev`
 - Site para leitura de livros técnicos. É utilizado o discord para reuniões e as gravações estão disponíveis no Yputube. [Leitura dev](https://leitura.dev/)
